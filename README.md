@@ -15,4 +15,4 @@
 <br />
 
 
-[linkedin]:  https://www.linkedin.com/in/leonardo-jacobina-mesquita-824646152/
+[linkedin]:  https://www.linkedin.com/in/carlos-s%C3%A9rgio-lima-1b3a0017a
