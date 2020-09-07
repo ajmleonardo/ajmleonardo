@@ -5,7 +5,7 @@
 ### Java Stack:
 
 
-<img  align="left"  alt="Java"  width="26px"  src="https://symbols.getvecta.com/stencil_85/10_java-icon.e6c5a2a97a.png" />
+<img  align="left"  alt="Java"  width="48px"  src="https://symbols.getvecta.com/stencil_85/10_java-icon.e6c5a2a97a.png" />
 
 
 <br />
