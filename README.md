@@ -5,13 +5,13 @@
 
 <img  align="left"  alt="HTML5" width="48px" src="https://i.imgur.com/i5exxg3.png" />
 
-<img  align="left"  alt="CSS3"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  align="left"  alt="CSS3"  width="48px"  src="https://i.imgur.com/u1ALnWV.png" />
 
-<img  align="left"  alt="JavaScript"  width="33px"  src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" />
+<img  align="left"  alt="JavaScript"  width="48px"  src="https://i.imgur.com/0IsfJpt.png" />
 
-<img  align="left"  alt="React"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  align="left"  alt="React"  width="48px"  src="https://i.imgur.com/VHZJpi0.png" />
 
-<img  align="left"  alt="Sass"  width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img  align="left"  alt="Sass"  width="48px"  src="https://i.imgur.com/2S4IaBH.png" />
 
 
 <br />
