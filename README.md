@@ -21,11 +21,12 @@
 
 ### Back-end Stack:
 
-<img  align="left"  alt="Java"  width="26px"  src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />
-<img  align="left"  alt="SQL"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img  align="left"  alt="MySQL"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img  align="left"  alt="Node.js"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img  align="left"  alt="PHP"  width="26px"  src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" />
+<img  align="left"  alt="Java"  width="48px"  src="https://i.imgur.com/gMhLMzA.png" />
+<img  align="left"  alt="Spring"  width="48px"  src="https://i.imgur.com/IZN37Br.png" />
+<img  align="left"  alt="Maven"  width="48px"  src="https://i.imgur.com/wRTSlec.png" />
+<img  align="left"  alt="SQL"  width="48px"  src="https://i.imgur.com/q1ZDPKH.png" />
+<img  align="left"  alt="MySQL"  width="48px"  src="https://i.imgur.com/ENcVV9j.png" />
+<img  align="left"  alt="Node.js"  width="48px"  src="https://i.imgur.com/JtUJ84Y.png" />
 
 
 <br />
@@ -35,7 +36,9 @@
 ### Other Technologies:
 
 
-<img  align="left"  alt="Git"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img  align="left"  alt="Git"  width="48px"  src="https://i.imgur.com/C4c8jGq.png" />
+<img  align="left"  alt="Pohotoshop"  width="48px"  src="https://i.imgur.com/ve9HYe2.png" />
+<img  align="left"  alt="Illutrator"  width="48px"  src="https://i.imgur.com/StIIRxz.png" />
 
 <br />
 <br />
