@@ -35,11 +35,11 @@
 
 ### Other Technologies:
 
-
 <img  align="left"  alt="Git"  width="48px"  src="https://i.imgur.com/C4c8jGq.png" />
 <img  align="left"  alt="Pohotoshop"  width="48px"  src="https://i.imgur.com/ve9HYe2.png" />
 <img  align="left"  alt="Illutrator"  width="48px"  src="https://i.imgur.com/StIIRxz.png" />
 
+<br />
 <br />
 <br />
 <br />
