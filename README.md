@@ -3,15 +3,15 @@
 
 ### Front-end Stack:
 
-<img  align="left"  alt="HTML5" width="44px" src="https://i.imgur.com/i5exxg3.png" />
+<img  align="left"  alt="HTML5" width="40px" src="https://i.imgur.com/i5exxg3.png" />
 
-<img  align="left"  alt="CSS3"  width="44px"  src="https://i.imgur.com/u1ALnWV.png" />
+<img  align="left"  alt="CSS3"  width="40px"  src="https://i.imgur.com/u1ALnWV.png" />
 
-<img  align="left"  alt="JavaScript"  width="44px"  src="https://i.imgur.com/0IsfJpt.png" />
+<img  align="left"  alt="JavaScript"  width="40px"  src="https://i.imgur.com/0IsfJpt.png" />
 
-<img  align="left"  alt="React"  width="44px"  src="https://i.imgur.com/VHZJpi0.png" />
+<img  align="left"  alt="React"  width="40px"  src="https://i.imgur.com/VHZJpi0.png" />
 
-<img  align="left"  alt="Sass"  width="44px"  src="https://i.imgur.com/2S4IaBH.png" />
+<img  align="left"  alt="Sass"  width="40px"  src="https://i.imgur.com/2S4IaBH.png" />
 
 
 <br />
@@ -21,12 +21,12 @@
 
 ### Back-end Stack:
 
-<img  align="left"  alt="Java"  width="44px"  src="https://i.imgur.com/gMhLMzA.png" />
-<img  align="left"  alt="Spring"  width="44px"  src="https://i.imgur.com/IZN37Br.png" />
-<img  align="left"  alt="Maven"  width="44px"  src="https://i.imgur.com/wRTSlec.png" />
-<img  align="left"  alt="SQL"  width="44px"  src="https://i.imgur.com/q1ZDPKH.png" />
-<img  align="left"  alt="MySQL"  width="44px"  src="https://i.imgur.com/ENcVV9j.png" />
-<img  align="left"  alt="Node.js"  width="44px"  src="https://i.imgur.com/JtUJ84Y.png" />
+<img  align="left"  alt="Java"  width="40px"  src="https://i.imgur.com/gMhLMzA.png" />
+<img  align="left"  alt="Spring"  width="40px"  src="https://i.imgur.com/IZN37Br.png" />
+<img  align="left"  alt="Maven"  width="40px"  src="https://i.imgur.com/wRTSlec.png" />
+<img  align="left"  alt="SQL"  width="40px"  src="https://i.imgur.com/q1ZDPKH.png" />
+<img  align="left"  alt="MySQL"  width="40px"  src="https://i.imgur.com/ENcVV9j.png" />
+<img  align="left"  alt="Node.js"  width="40px"  src="https://i.imgur.com/JtUJ84Y.png" />
 
 
 <br />
@@ -35,9 +35,9 @@
 
 ### Other Technologies:
 
-<img  align="left"  alt="Git"  width="44px"  src="https://i.imgur.com/C4c8jGq.png" />
-<img  align="left"  alt="Pohotoshop"  width="44px"  src="https://i.imgur.com/ve9HYe2.png" />
-<img  align="left"  alt="Illutrator"  width="44px"  src="https://i.imgur.com/StIIRxz.png" />
+<img  align="left"  alt="Git"  width="40px"  src="https://i.imgur.com/C4c8jGq.png" />
+<img  align="left"  alt="Pohotoshop"  width="40px"  src="https://i.imgur.com/ve9HYe2.png" />
+<img  align="left"  alt="Illutrator"  width="40px"  src="https://i.imgur.com/StIIRxz.png" />
 
 <br />
 <br />
