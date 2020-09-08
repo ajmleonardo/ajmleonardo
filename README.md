@@ -4,15 +4,10 @@
 ### Front-end Stack:
 
 <img  align="left"  alt="HTML5" width="40px" src="https://i.imgur.com/i5exxg3.png" />
-
 <img  align="left"  alt="CSS3"  width="40px"  src="https://i.imgur.com/u1ALnWV.png" />
-
 <img  align="left"  alt="JavaScript"  width="40px"  src="https://i.imgur.com/0IsfJpt.png" />
-
 <img  align="left"  alt="React"  width="40px"  src="https://i.imgur.com/VHZJpi0.png" />
-
 <img  align="left"  alt="Sass"  width="40px"  src="https://i.imgur.com/2S4IaBH.png" />
-
 
 <br />
 <br />
@@ -27,7 +22,6 @@
 <img  align="left"  alt="SQL"  width="40px"  src="https://i.imgur.com/q1ZDPKH.png" />
 <img  align="left"  alt="MySQL"  width="40px"  src="https://i.imgur.com/ENcVV9j.png" />
 <img  align="left"  alt="Node.js"  width="40px"  src="https://i.imgur.com/JtUJ84Y.png" />
-
 
 <br />
 <br />
