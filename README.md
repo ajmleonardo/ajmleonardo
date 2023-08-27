@@ -1,20 +1,20 @@
-<h1> Hello, there! Welcome to my humble place! </h1>
+<h1> Backend Web Software Developer </h1>
 
 
-### Front-end Stack:
+### Front-end Technologies:
 
 <img  align="left"  alt="HTML5" width="40px" src="https://i.imgur.com/i5exxg3.png" />
 <img  align="left"  alt="CSS3"  width="40px"  src="https://i.imgur.com/u1ALnWV.png" />
 <img  align="left"  alt="JavaScript"  width="40px"  src="https://i.imgur.com/0IsfJpt.png" />
 <img  align="left"  alt="React"  width="40px"  src="https://i.imgur.com/VHZJpi0.png" />
-<img  align="left"  alt="Sass"  width="40px"  src="https://i.imgur.com/2S4IaBH.png" />
+<img  align="left"  alt="Angular"  width="40px"  src="[https://i.imgur.com/2S4IaBH.png](https://imgur.com/UyFLU0e)" />
 
 <br />
 <br />
 <br />
 
 
-### Back-end Stack:
+### Back-end Technologies:
 
 <img  align="left"  alt="Java"  width="40px"  src="https://i.imgur.com/gMhLMzA.png" />
 <img  align="left"  alt="Spring"  width="40px"  src="https://i.imgur.com/IZN37Br.png" />
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-### Other Technologies:
+### Tools:
 
 <img  align="left"  alt="Git"  width="40px"  src="https://i.imgur.com/C4c8jGq.png" />
 <img  align="left"  alt="Pohotoshop"  width="40px"  src="https://i.imgur.com/ve9HYe2.png" />
