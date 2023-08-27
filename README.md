@@ -7,7 +7,7 @@
 <img  align="left"  alt="CSS3"  width="40px"  src="https://i.imgur.com/u1ALnWV.png" />
 <img  align="left"  alt="JavaScript"  width="40px"  src="https://i.imgur.com/0IsfJpt.png" />
 <img  align="left"  alt="React"  width="40px"  src="https://i.imgur.com/VHZJpi0.png" />
-<img  align="left"  alt="Angular"  width="40px"  src="https://imgur.com/UyFLU0e" />
+<img  align="left"  alt="Angular"  width="40px"  src="https://i.imgur.com/UyFLU0e.png" />
 
 <br />
 <br />
