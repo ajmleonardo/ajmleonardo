@@ -36,3 +36,6 @@
 <br />
 <br />
 <br />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mesquita-824646152/)
+[![Lattes](https://img.shields.io/badge/-Lattes-blue?style=flat)](https://lattes.cnpq.br/5996024366206688)
