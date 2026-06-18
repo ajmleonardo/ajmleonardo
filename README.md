@@ -46,4 +46,5 @@
 <br />
 <br />
 
-### Update: Paused my software developer career for a while. Working on personal projects.
+### Update: Personal art project: deviantart.com/leoajm
+
