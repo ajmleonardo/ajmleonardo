@@ -43,8 +43,5 @@
 [![Lattes](https://img.shields.io/badge/-Lattes-blue?style=flat)](https://lattes.cnpq.br/5996024366206688)
 
 <br />
-<br />
-<br />
 
 ### Update: Personal art project: deviantart.com/leoajm
-
