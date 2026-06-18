@@ -31,6 +31,7 @@
 <img  align="left"  alt="Git"  width="40px"  src="https://i.imgur.com/ZkZZTN2.png" />
 <img  align="left"  alt="AWS"  width="40px"  src="https://i.imgur.com/bMxhMaw.png" />
 <img  align="left"  alt="Docker"  width="40px"  src="https://i.imgur.com/C4c8jGq.png" />
+<img  align="left"  alt="Kafka"  width="40px"  src="https://imgur.com/a/UYt1hR6" />
 
 <br />
 <br />
